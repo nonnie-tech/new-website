@@ -1,0 +1,6 @@
+{
+  "name": "ShopEase",
+  "description": "A clean, minimal, and premium e-commerce platform offering a seamless shopping experience from browsing to real-time order tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
